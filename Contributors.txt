@@ -8,3 +8,4 @@ Name: Noor ul Huda
 Name:Adeel Ahmed 
 Name: Jalal Ahmad
 Name: Fiza Khalid
+Name: Dawood Khan
